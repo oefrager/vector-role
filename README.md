@@ -9,7 +9,7 @@ Requirements
 Role Variables
 --------------
 
-Version Vector
+Version Vector "0.44.0"
 
 Example Playbook
 ----------------
